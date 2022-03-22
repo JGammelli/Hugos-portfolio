@@ -234,7 +234,7 @@ class CV extends React.Component {
               <div className="languageBox">
                 <h2>Languages</h2>
                 <ul>
-                  <li>Swedish - Navite</li>
+                  <li>Swedish - Native</li>
                   <li>English - Fluent</li>
                 </ul>
               </div>
